@@ -1,0 +1,10 @@
+C:\Users\m-yoshinari-PC\source\repos\tasklogmemorizer\tasklogmemorizer\obj\Debug\tasklogmemorizer.csprojAssemblyReference.cache
+C:\Users\m-yoshinari-PC\source\repos\tasklogmemorizer\tasklogmemorizer\obj\Debug\tasklogmemorizer.Properties.Resources.resources
+C:\Users\m-yoshinari-PC\source\repos\tasklogmemorizer\tasklogmemorizer\obj\Debug\tasklogmemorizer.csproj.GenerateResource.cache
+C:\Users\m-yoshinari-PC\source\repos\tasklogmemorizer\tasklogmemorizer\obj\Debug\tasklogmemorizer.csproj.CoreCompileInputs.cache
+C:\Users\m-yoshinari-PC\source\repos\tasklogmemorizer\tasklogmemorizer\bin\Debug\tasklogmemorizer.exe.config
+C:\Users\m-yoshinari-PC\source\repos\tasklogmemorizer\tasklogmemorizer\bin\Debug\tasklogmemorizer.exe
+C:\Users\m-yoshinari-PC\source\repos\tasklogmemorizer\tasklogmemorizer\bin\Debug\tasklogmemorizer.pdb
+C:\Users\m-yoshinari-PC\source\repos\tasklogmemorizer\tasklogmemorizer\obj\Debug\tasklogmemorizer.exe
+C:\Users\m-yoshinari-PC\source\repos\tasklogmemorizer\tasklogmemorizer\obj\Debug\tasklogmemorizer.pdb
+C:\Users\m-yoshinari-PC\source\repos\tasklogmemorizer\tasklogmemorizer\obj\Debug\tasklogmemorizer.frmMain.resources
