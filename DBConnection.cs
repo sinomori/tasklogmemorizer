@@ -18,7 +18,7 @@ namespace tasklogmemorizer
         private SqlConnection sqlCon;
         private SqlTransaction sqlTran;
 
-        public void Open()
+        private void Open()
         {
             // 接続文字列を生成する
             string connectString =
@@ -38,18 +38,25 @@ namespace tasklogmemorizer
             this.sqlTran = this.sqlCon.BeginTransaction();
         }
 
-        public void Close()
+        public Boolean ExecuteSQL(string SQL)
         {
-            //トランザクションをコミット
+            this.Open();
+            SqlCommand command = new SqlCommand()
+             = SQL
+
+
+            return true;
+        }
+
+        private void Close()
+        {
             if (this.sqlTran.Connection != null)
             {
+                // データベース接続を閉じる 
                 this.sqlTran.Commit();
-                this.sqlTran.Dispose();
+                this.sqlCon.Close();
+                this.sqlCon.Dispose();
             }
-
-            // データベース接続を閉じる 
-            this.sqlCon.Close();
-            this.sqlCon.Dispose();
         }
     }
 }
